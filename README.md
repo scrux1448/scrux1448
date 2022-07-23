@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scrux1448
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Lua & JS
-- 📫 How to reach me: discord "scrux#7777"
+- 📫 How to reach me: discord "scrux#8953"
 - 😒 If I don't answer, it means I'm busy...
